@@ -1,0 +1,8 @@
+﻿<Project>
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<RootNamespace>FloppyShelf.Security.FipsAes</RootNamespace>
+	</PropertyGroup>
+</Project>
