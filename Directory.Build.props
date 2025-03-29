@@ -4,5 +4,6 @@
 		<Nullable>disable</Nullable>
 		<ImplicitUsings>disable</ImplicitUsings>
 		<RootNamespace>FloppyShelf.Security.FipsAes</RootNamespace>
+		<EnablePackageValidation>true</EnablePackageValidation>
 	</PropertyGroup>
 </Project>
